@@ -1,5 +1,0 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Maecenas quis neque ut tortor congue congue.
-Praesent nec nibh lobortis, tincidunt sapien eu, gravida ex.
-Curabitur ac velit at odio aliquam gravida maximus id nibh.
-Mauris eget lorem scelerisque, laoreet ipsum eu, porttitor ligula.
